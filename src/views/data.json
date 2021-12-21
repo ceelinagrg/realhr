@@ -1,0 +1,140 @@
+{
+    "meta": {
+        "total_count": 11
+    },
+    "items": [
+        {
+            "id": 5,
+            "meta": {
+    
+                "type": "home.BlogPage",
+                "detail_url": "http://realhrsoft.com/blog/api/v2/pages/5/",
+                "html_url": "http://realhrsoft.com/blog/realhrsoft-an-exclusive-and-premium-hr-software-suite-trusted-by-hr-professionals-of-nepal/",
+                "slug": "realhrsoft-an-exclusive-and-premium-hr-software-suite-trusted-by-hr-professionals-of-nepal",
+                "intro":"There are many HR software available in the market. In this article, we will talk about how the RealHRsoft suite is created and constantly updated to make sure your organization is equipped with the best HR information and implementation platform to guarantee organizational success and why it is the most premium HR software suite, trusted by HR Professionals of Nepal.",
+                "first_published_at": "2021-08-13T08:10:21.647159Z"
+            },
+            "title": "RealHRsoft - an exclusive and premium HR software suite, trusted by HR Professionals of Nepal"
+        },
+        {
+            "id": 7,
+            "meta":{
+                "type": "home.BlogPage",
+                "detail_url": "http://realhrsoft.com/blog/api/v2/pages/7/",
+                "html_url": "http://realhrsoft.com/blog/why-is-realhrsofts-task-management-module-trusted-by-hr-professionals-of-nepal/",
+                "slug": "why-is-realhrsofts-task-management-module-trusted-by-hr-professionals-of-nepal",
+                "intro":"Regardless of the kind of a company (service, products, development, etc), there are three major functions that the businesses perform - marketing/communication, finance and operations.",
+                "first_published_at": "2021-08-19T10:13:11.454433Z"
+            },
+            "title": "Why is RealHRsoft’s Task Management Module trusted by HR professionals of Nepal?"
+        },
+        {
+            "id": 9,
+            "meta": {
+                "type": "home.BlogPage",
+                "detail_url": "http://realhrsoft.com/blog/api/v2/pages/9/",
+                "html_url": "http://realhrsoft.com/blog/leave-management-module-trusted-by-hr-professionals-of-nepal/",
+                "slug": "leave-management-module-trusted-by-hr-professionals-of-nepal",
+                "intro":"Leave Management along with Attendance management is probably one of the most used HR modules by most companies. Infact, as a company grows from few people, leave management becomes critical to make sure that the core operations are running and does not stop because of scheduling problems.",
+                "first_published_at": "2021-08-19T10:24:39.833196Z"
+            },
+            "title": "Leave Management Module - Trusted by HR Professionals of Nepal"
+        },
+        {
+            "id": 10,
+            "meta": {
+                "type": "home.BlogPage",
+                "detail_url": "http://realhrsoft.com/blog/api/v2/pages/10/",
+                "html_url": "http://realhrsoft.com/blog/how-much-will-be-your-cash-in-hand-after-the-new-budget/",
+                "slug": "how-much-will-be-your-cash-in-hand-after-the-new-budget",
+                "intro":"The new budget for the fiscal year 78/79 is out through an ordinance and it could have some implication to your pay. Whether you are working in the government sector or public /private enterprise, this may bring some changes to your salary.",
+                "first_published_at": "2021-08-19T10:36:10.078579Z"
+            },
+            "title": "How much will be your cash in hand after the new budget?"
+        },
+        {
+            "id": 11,
+            "meta": {
+                "type": "home.BlogPage",
+                "detail_url": "http://realhrsoft.com/blog/api/v2/pages/11/",
+                "html_url": "http://realhrsoft.com/blog/hr-intelligence-system-trusted-by-hr-practitioners/",
+                "slug": "hr-intelligence-system-trusted-by-hr-practitioners",
+                "intro":"Like in all modern business functions, the statement by the American management consultant Edward Deming “In god we trust, for everything else brings data”, resonates very closely with the current HR executives as well.",
+                "first_published_at": "2021-11-02T08:41:03.311259Z"
+            },
+            "title": "HR Intelligence System - Trusted by HR Practitioners"
+        },
+        {
+            "id": 12,
+            "meta": {
+                "type": "home.BlogPage",
+                "detail_url": "http://realhrsoft.com/blog/api/v2/pages/12/",
+                "html_url": "http://realhrsoft.com/blog/payroll-management-trusted-by-hr-practitioner-of-nepal/",
+                "slug": "payroll-management-trusted-by-hr-practitioner-of-nepal",
+                "intro":"Managing employee payroll without any error can be extremely time-consuming and burdensome. Imagine having an error-free and hassle-free experience while managing the payroll of your entire office... With RealHRsoft, you can live that dream!",
+                "first_published_at": "2021-11-15T04:17:07.217419Z"
+            },
+            "title": "Payroll Management - Trusted by HR Practitioner of Nepal"
+        },
+        {
+            "id": 13,
+            "meta": {
+                "type": "home.BlogPage",
+                "detail_url": "http://realhrsoft.com/blog/api/v2/pages/13/",
+                "html_url": "http://realhrsoft.com/blog/attendance-management-trusted-by-hr-practitioners-of-nepal/",
+                "slug": "attendance-management-trusted-by-hr-practitioners-of-nepal",
+                "intro":"Attendance Management is probably one of the most used HR modules in all companies. Since the beginning stage of a company, attendance management is very crucial to keep track of employees’ absenteeism, leaves, and primary data for appraisal, payroll, and individual reports.",
+                "first_published_at": "2021-11-15T04:23:12.295087Z"
+            },
+            "title": "Attendance Management - Trusted by HR Practitioners of Nepal"
+        },
+        {
+            "id": 14,
+            "meta": {
+                "type": "home.BlogPage",
+                "detail_url": "http://realhrsoft.com/blog/api/v2/pages/14/",
+                "html_url": "http://realhrsoft.com/blog/recruitment-selection-streamlining-your-hiring-process/",
+                "slug": "recruitment-selection-streamlining-your-hiring-process",
+                "intro":"One of the most important factors necessary for a company’s success is having the right employees. Selecting the right person for every position can be a very long and difficult task for the HR department.",
+                "first_published_at": "2021-11-15T04:25:40.179181Z"
+            },
+            "title": "Recruitment & Selection: Streamlining your Hiring Process"
+        },
+        {
+            "id": 15,
+            "meta": {
+                "type": "home.BlogPage",
+                "detail_url": "http://realhrsoft.com/blog/api/v2/pages/15/",
+                "html_url": "http://realhrsoft.com/blog/performance-appraisal/",
+                "slug": "performance-appraisal",
+                "intro":"A company’s success depends highly on the performance of its employees. If your employees work as per a set of objectives, your company is more likely to progress but when employees don’t deliver as they are expected to, the company might suffer the consequences like not completing required tasks on time and lacking behind on certain trends to name a few.",
+                "first_published_at": "2021-11-30T11:06:24.454916Z"
+            },
+            "title": "Performance Appraisal"
+        },
+        {
+            "id": 16,
+            "meta": {
+                "type": "home.BlogPage",
+                "detail_url": "http://realhrsoft.com/blog/api/v2/pages/16/",
+                "html_url": "http://realhrsoft.com/blog/onboarding-a-guide-on-welcoming-new-employees/",
+                "slug": "onboarding-a-guide-on-welcoming-new-employees",
+                "intro":"You never get a second chance to make a great first impression and first impressions can have a long-lasting impact! Therefore it should be a high priority for companies to make new employees feel welcomed, valued, and prepared to succeed in their new role.",
+                "first_published_at": "2021-12-01T04:30:07.468341Z"
+            },
+            "title": "Onboarding: A Guide on welcoming new employees"
+        },
+        {
+            "id": 17,
+            "meta": {
+                "type": "home.BlogPage",
+                "detail_url": "http://realhrsoft.com/blog/api/v2/pages/17/",
+                "html_url": "http://realhrsoft.com/blog/offboarding-preparing-an-employee-to-leave/",
+                "slug": "offboarding-preparing-an-employee-to-leave",
+                "intro": "Everyone knows that employee turnover is unavoidable. People resign for many reasons and as soon the HR Department receives a resignation letter, the process of Offboarding starts.",
+                "first_published_at": "2021-12-01T04:34:19.154221Z"
+            },
+            "title": "Offboarding: Preparing an employee to leave"
+        }
+    ]
+}
